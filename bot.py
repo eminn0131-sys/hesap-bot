@@ -14,7 +14,7 @@ intents.members = True
 bot = commands.Bot(command_prefix='!', intents=intents)
 
 # --- ADMIN ID (Kendi Discord ID'ni yaz!) ---
-ADMIN_ID = 1532403639115845742  # BURAYA KENDİ ID'NI YAZ!
+ADMIN_ID = 1518482876566605877  # BURAYA KENDİ ID'NI YAZ!
 
 # --- İZİN VERİLEN SUNUCU ID ---
 IZINLI_SUNUCU_ID = 1532403639115845742  # YENİ SUNUCU ID
